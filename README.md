@@ -8,6 +8,6 @@
     <h1>Bienvenue sur mon site web</h1>
     <p>Ceci est ma première page web.</p>
     <img src="image.jpg" alt="Image">
-    <a href="https://www.example.com">Lien vers un autre site web</a>
+    <a href="[https://www.example.com](https://www.instagram.com/oways.b9/)">Lien vers un autre site web</a>
 </body>
 </html>
